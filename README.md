@@ -2,7 +2,6 @@
 - 👀 I’m interested in ... Electronics and Computer Science
 - 🌱 I’m currently learning ... Python, JS and Machine Learning
 - 💞️ I’m looking to collaborate on ... Anything
-- 📫 How to reach me ... On Discord as Vaunt#3700
 
 <!---
 VauntPy/VauntPy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
