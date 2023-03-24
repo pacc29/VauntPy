@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VauntPy
+- 👋 Hi, I’m Piero
 - 👀 I’m interested in ... Electronics and Computer Science
 - 🌱 I’m currently learning ... Python, JS and Machine Learning
 - 💞️ I’m looking to collaborate on ... Anything
